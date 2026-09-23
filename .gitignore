@@ -1,0 +1,8 @@
+# Build output and local data
+bin/
+data/
+*.log
+
+# Local IDE files
+.vs/
+.vscode/

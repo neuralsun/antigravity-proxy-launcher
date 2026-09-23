@@ -1,0 +1,5 @@
+# Antigravity Proxy Launcher
+
+MIT License for the launcher source and scripts in this repository.
+
+The `payload/` binaries are distributed under the license of the upstream Antigravity-Proxy project: https://github.com/yuaotian/antigravity-proxy/blob/main/LICENSE.txt
